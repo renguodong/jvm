@@ -14,7 +14,7 @@ public class ThreadMain {
 
     public static void main(String[] args) {
         new Thread();
-
+        new Thread();
 //        ThreadA a = new ThreadA();
 //        Thread thread = new Thread(a, "sss");
 //        try {
