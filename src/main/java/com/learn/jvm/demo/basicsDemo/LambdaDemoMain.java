@@ -12,6 +12,7 @@ public class LambdaDemoMain {
 //        lambdaDemoInterface1.lambda1();
         LambdaDemoInterface lambdaDemoInterface2 = a -> a;
         lambdaDemoInterface2.lambda2(1);
+
         new Thread();
         new Thread(() -> {
 
